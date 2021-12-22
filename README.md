@@ -2,9 +2,9 @@
 
 # YunGyeom Jo
 
-#### 🏫I'm student in GwangJu Software Meister Highschool  
+#### 🏫I'm student in GwangJu Software Meister Highschool
 
-#### 🎒I'm intersted in developing Front-end  
+#### 🎒I'm intersted in developing Front-end
 
 #### 📘I'm learning React
 
