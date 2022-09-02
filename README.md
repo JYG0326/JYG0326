@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=285&section=header&text=조윤겸&fontSize=85&animation=twinkling&fontAlignY=40&desc=Jo YunGyeom&descAlignY=60"/>
 
 # YunGyeom Jo
 
@@ -6,7 +5,7 @@
 
 #### 🎒I'm intersted in developing Front-end
 
-#### 📘I'm learning React
+#### 📘I'm learning React & 
 
 
 
