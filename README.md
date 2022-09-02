@@ -5,7 +5,7 @@
 
 #### 🎒I'm intersted in developing Front-end
 
-#### 📘I'm learning React & 
+#### 📘I'm learning React & Vue
 
 
 
